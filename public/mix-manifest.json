@@ -1,0 +1,11 @@
+{
+    "/js/Modules/Admin/admin.js": "/js/Modules/Admin/admin.js",
+    "/css/Modules/Admin/admin.css": "/css/Modules/Admin/admin.css",
+    "/css/Modules/Admin/slider.css": "/css/Modules/Admin/slider.css",
+    "/js/Modules/Admin/slider.js": "/js/Modules/Admin/slider.js",
+    "/js/Modules/Admin/ckeditor/ckeditor.js": "/js/Modules/Admin/ckeditor/ckeditor.js",
+    "/js/Modules/Admin/ckeditor/ckeditor.js.map": "/js/Modules/Admin/ckeditor/ckeditor.js.map",
+    "/js/Modules/Admin/ckeditor/index.html": "/js/Modules/Admin/ckeditor/index.html",
+    "/js/Modules/Admin/ckeditor/LICENSE.md": "/js/Modules/Admin/ckeditor/LICENSE.md",
+    "/js/Modules/Admin/ckeditor/README.md": "/js/Modules/Admin/ckeditor/README.md"
+}
